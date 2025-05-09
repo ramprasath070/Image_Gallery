@@ -149,7 +149,8 @@ Publish the website in the given URL.
         <img id="modalImage" src="" alt="Expanded Image" width="100%" height="100%">
     </div>
     </body>
-</html>```
+</html>
+```
 
 ## OUTPUT
 Screenshot 2025-05-09 124315.png
